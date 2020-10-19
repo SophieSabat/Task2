@@ -1,0 +1,37 @@
+body {
+    background-color: #d8d8da;
+}
+img {
+    height: 360px;
+    padding: 20px;
+  }
+h1 {
+    text-align: center;
+    background: #f2f2f3;
+    font-family: "Times New Roman", Times, serif;
+    padding: 5px;
+}
+#awards {
+    width: 980px;
+    display: inline-block;
+  }
+.sings {
+    margin-top: 200px;
+    background: linear-gradient(to bottom, #d8d8da 0%, #000000 100%);
+}
+.list {
+    font-size: 20px;
+    color: #ffffff;
+    text-align: center;
+    list-style-type: upper-roman;
+    list-style-type: none;
+    text-shadow: 2px 2px 5px black;
+}
+a {
+    color: #ffffff;
+}
+.popularity_sings {
+    text-align: center;
+    background: #f2f2f3;
+    padding: 7px;
+}
